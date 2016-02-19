@@ -35,4 +35,31 @@
 }
 
 /* Your Code Goes Under This Line */
+.div1 {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
 
+.div2 {
+	position: relative;
+	left: 100px;
+	top: 50px;
+}
+
+.div3 {
+	float: right;
+}
+
+.div4 {
+	float: left;
+}
+
+.div5 {
+	float: right;
+}
+
+.div6 {
+	position: relative;
+	margin: 0 auto;
+}
