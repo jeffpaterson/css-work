@@ -3,3 +3,23 @@ img {
 }
 
 /* Code Under This Line */
+
+
+div:nth-child(2){
+  border: red solid 10px;
+}
+
+div:nth-child(3) {
+  border: blue dashed 10px;
+}
+
+div:nth-child(4) {
+  border-left: solid green 10px;
+}
+
+.flag {
+  border-top: red solid 10px;
+  border-bottom: red solid 10px;
+  border-left: blue solid 10px;
+  border-right: blue solid 10px;
+}
