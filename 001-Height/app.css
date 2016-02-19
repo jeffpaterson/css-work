@@ -8,4 +8,23 @@ img {
   max-width: 100%;
 }
 
+.short {
+  height: 100px;
+}
+
+.tall {
+  height: 200px;
+}
+
+.inside {
+  display: inline-block;
+  height: 100%;
+}
+
+/*.giant {
+position: absolute;
+top: 0;
+bottom: 0;
+}*/
+
 /* Code Under This Line */
